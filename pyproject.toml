@@ -1,7 +1,7 @@
 [project]
-name = "your-project-name"
+name = "asteroids"
 version = "0.1.0"
-description = "Add your description here"
+description = "Bootdev's Pygame clone of the classic Asteroids game"
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [

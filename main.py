@@ -39,7 +39,6 @@ def main():
                 return
 
         updatable.update(dt)
-        print(player)
 
         screen.fill("black")
         for draw_obj in drawable:
